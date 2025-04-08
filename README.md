@@ -103,12 +103,6 @@ You can easily modify the script to generate more detailed suggestions or adjust
 
 Feel free to contribute to the project by opening issues or creating pull requests. If you have any new ideas or features to improve the gift suggestion process, don't hesitate to share them!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [OpenAI](https://www.openai.com/) for providing the GPT model that powers the gift generation.
-- [Python](https://www.python.org/) for making it easy to develop this script.
-```
