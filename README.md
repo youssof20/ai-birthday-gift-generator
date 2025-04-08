@@ -1,4 +1,3 @@
-```markdown
 # Birthday Gift Idea Generator
 
 A Python script that generates unique, personalized birthday gift ideas using the OpenAI API. This tool is designed to help users find the perfect gift for any individual by customizing suggestions based on the recipient's interests, age, relationship to the giver, budget, and more.
